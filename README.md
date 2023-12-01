@@ -35,7 +35,7 @@ Users should be able to:
 - Solution URL: [https://github.com/01adamx/qr-code-component](https://github.com/01adamx/qr-code-component)
 - Live Site URL: [https://01adamx.github.io/qr-code-component/](https://01adamx.github.io/qr-code-component/)
 
-## My process
+## My process.
 
 ### Built with
 
