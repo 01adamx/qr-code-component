@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/adamx23x/qr-code-component](https://github.com/adamx23x/qr-code-component)
-- Live Site URL: [https://adamx23x.github.io/qr-code-component/](https://adamx23x.github.io/qr-code-component/)
+- Solution URL: [https://github.com/01adamx/qr-code-component](https://github.com/01adamx/qr-code-component)
+- Live Site URL: [https://01adamx.github.io/qr-code-component/](https://01adamx.github.io/qr-code-component/)
 
 ## My process
 
